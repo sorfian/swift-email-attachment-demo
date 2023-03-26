@@ -9,21 +9,29 @@
 /* Begin PBXBuildFile section */
 		D63D8C2D29CFF6F900C9DF34 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63D8C2C29CFF6F900C9DF34 /* AppDelegate.swift */; };
 		D63D8C2F29CFF6F900C9DF34 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63D8C2E29CFF6F900C9DF34 /* SceneDelegate.swift */; };
-		D63D8C3129CFF6F900C9DF34 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63D8C3029CFF6F900C9DF34 /* ViewController.swift */; };
 		D63D8C3429CFF6F900C9DF34 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C3229CFF6F900C9DF34 /* Main.storyboard */; };
 		D63D8C3629CFF6FA00C9DF34 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C3529CFF6FA00C9DF34 /* Assets.xcassets */; };
 		D63D8C3929CFF6FA00C9DF34 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C3729CFF6FA00C9DF34 /* LaunchScreen.storyboard */; };
+		D63D8C4229CFF77600C9DF34 /* my macbook.png in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4129CFF77600C9DF34 /* my macbook.png */; };
+		D63D8C4429CFF78100C9DF34 /* hello world.html in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4329CFF78100C9DF34 /* hello world.html */; };
+		D63D8C4729CFF79300C9DF34 /* cafeloisl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */; };
+		D63D8C4929CFF79B00C9DF34 /* become ios developer.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D63D8C2929CFF6F900C9DF34 /* Email Attachment Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Email Attachment Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D63D8C2C29CFF6F900C9DF34 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D63D8C2E29CFF6F900C9DF34 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D63D8C3029CFF6F900C9DF34 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D63D8C3329CFF6F900C9DF34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D63D8C3529CFF6FA00C9DF34 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D63D8C3829CFF6FA00C9DF34 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D63D8C3A29CFF6FA00C9DF34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D63D8C4129CFF77600C9DF34 /* my macbook.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "my macbook.png"; sourceTree = "<group>"; };
+		D63D8C4329CFF78100C9DF34 /* hello world.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "hello world.html"; sourceTree = "<group>"; };
+		D63D8C4529CFF78800C9DF34 /* hello sorfian.pptx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hello sorfian.pptx"; sourceTree = "<group>"; };
+		D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cafeloisl.jpg; sourceTree = "<group>"; };
+		D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "become ios developer.pdf"; sourceTree = "<group>"; };
+		D63D8C4A29CFF7A100C9DF34 /* app requirement example.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "app requirement example.docx"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +64,28 @@
 		D63D8C2B29CFF6F900C9DF34 /* Email Attachment Demo */ = {
 			isa = PBXGroup;
 			children = (
+				D63D8C4029CFF76200C9DF34 /* Attachment */,
 				D63D8C2C29CFF6F900C9DF34 /* AppDelegate.swift */,
 				D63D8C2E29CFF6F900C9DF34 /* SceneDelegate.swift */,
-				D63D8C3029CFF6F900C9DF34 /* ViewController.swift */,
 				D63D8C3229CFF6F900C9DF34 /* Main.storyboard */,
 				D63D8C3529CFF6FA00C9DF34 /* Assets.xcassets */,
 				D63D8C3729CFF6FA00C9DF34 /* LaunchScreen.storyboard */,
 				D63D8C3A29CFF6FA00C9DF34 /* Info.plist */,
 			);
 			path = "Email Attachment Demo";
+			sourceTree = "<group>";
+		};
+		D63D8C4029CFF76200C9DF34 /* Attachment */ = {
+			isa = PBXGroup;
+			children = (
+				D63D8C4129CFF77600C9DF34 /* my macbook.png */,
+				D63D8C4329CFF78100C9DF34 /* hello world.html */,
+				D63D8C4529CFF78800C9DF34 /* hello sorfian.pptx */,
+				D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */,
+				D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */,
+				D63D8C4A29CFF7A100C9DF34 /* app requirement example.docx */,
+			);
+			path = Attachment;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -127,7 +148,11 @@
 			files = (
 				D63D8C3929CFF6FA00C9DF34 /* LaunchScreen.storyboard in Resources */,
 				D63D8C3629CFF6FA00C9DF34 /* Assets.xcassets in Resources */,
+				D63D8C4729CFF79300C9DF34 /* cafeloisl.jpg in Resources */,
 				D63D8C3429CFF6F900C9DF34 /* Main.storyboard in Resources */,
+				D63D8C4229CFF77600C9DF34 /* my macbook.png in Resources */,
+				D63D8C4929CFF79B00C9DF34 /* become ios developer.pdf in Resources */,
+				D63D8C4429CFF78100C9DF34 /* hello world.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +163,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D63D8C3129CFF6F900C9DF34 /* ViewController.swift in Sources */,
 				D63D8C2D29CFF6F900C9DF34 /* AppDelegate.swift in Sources */,
 				D63D8C2F29CFF6F900C9DF34 /* SceneDelegate.swift in Sources */,
 			);
