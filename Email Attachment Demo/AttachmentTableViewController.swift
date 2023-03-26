@@ -11,12 +11,14 @@ import UniformTypeIdentifiers
 
 class AttachmentTableViewController: UITableViewController {
     let filenames = [
-        "my macbook.png",
-        "hello world.html",
-        "hello sorfian.pptx",
-        "cafeloisl.jpg",
         "become ios developer.pdf",
-        "app requirement example.docx"
+        "hello world.html",
+        "cafeloisl.jpg",
+        "hello sorfian.pptx",
+        "my macbook.png",
+        "app requirement example.docx",
+        "hello sorfian.ppt",
+        "app requirement example.doc"
     ]
     
     enum MIMEType: String {
