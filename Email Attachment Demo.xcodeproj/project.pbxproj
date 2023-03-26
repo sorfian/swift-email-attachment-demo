@@ -16,6 +16,7 @@
 		D63D8C4429CFF78100C9DF34 /* hello world.html in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4329CFF78100C9DF34 /* hello world.html */; };
 		D63D8C4729CFF79300C9DF34 /* cafeloisl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */; };
 		D63D8C4929CFF79B00C9DF34 /* become ios developer.pdf in Resources */ = {isa = PBXBuildFile; fileRef = D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */; };
+		D63D8C4C29CFF82700C9DF34 /* AttachmentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D63D8C4B29CFF82700C9DF34 /* AttachmentTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,9 @@
 		D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cafeloisl.jpg; sourceTree = "<group>"; };
 		D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "become ios developer.pdf"; sourceTree = "<group>"; };
 		D63D8C4A29CFF7A100C9DF34 /* app requirement example.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "app requirement example.docx"; sourceTree = "<group>"; };
+		D63D8C4B29CFF82700C9DF34 /* AttachmentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AttachmentTableViewController.swift; sourceTree = "<group>"; };
+		D63D8C4D29D0078000C9DF34 /* app requirement example.doc */ = {isa = PBXFileReference; lastKnownFileType = file; path = "app requirement example.doc"; sourceTree = "<group>"; };
+		D63D8C4E29D0078C00C9DF34 /* hello sorfian.ppt */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hello sorfian.ppt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,7 @@
 				D63D8C3529CFF6FA00C9DF34 /* Assets.xcassets */,
 				D63D8C3729CFF6FA00C9DF34 /* LaunchScreen.storyboard */,
 				D63D8C3A29CFF6FA00C9DF34 /* Info.plist */,
+				D63D8C4B29CFF82700C9DF34 /* AttachmentTableViewController.swift */,
 			);
 			path = "Email Attachment Demo";
 			sourceTree = "<group>";
@@ -83,7 +88,9 @@
 				D63D8C4529CFF78800C9DF34 /* hello sorfian.pptx */,
 				D63D8C4629CFF79300C9DF34 /* cafeloisl.jpg */,
 				D63D8C4829CFF79B00C9DF34 /* become ios developer.pdf */,
+				D63D8C4D29D0078000C9DF34 /* app requirement example.doc */,
 				D63D8C4A29CFF7A100C9DF34 /* app requirement example.docx */,
+				D63D8C4E29D0078C00C9DF34 /* hello sorfian.ppt */,
 			);
 			path = Attachment;
 			sourceTree = "<group>";
@@ -165,6 +172,7 @@
 			files = (
 				D63D8C2D29CFF6F900C9DF34 /* AppDelegate.swift in Sources */,
 				D63D8C2F29CFF6F900C9DF34 /* SceneDelegate.swift in Sources */,
+				D63D8C4C29CFF82700C9DF34 /* AttachmentTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
